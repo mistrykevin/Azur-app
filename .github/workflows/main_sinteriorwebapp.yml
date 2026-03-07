@@ -52,4 +52,4 @@ jobs:
           app-name: 'sinteriorwebapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2F8EB371E15C458FBB7B181A319BCEE7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_457BBA2A10CD4AAC9DA8CC81D55A4FDB }}
